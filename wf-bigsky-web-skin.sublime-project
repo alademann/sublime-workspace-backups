@@ -1,0 +1,23 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+            "name": "Web Skin",
+			"path": "bigsky/z_bigsky/externals/web-skin",
+            "folder_exclude_patterns": [
+                  ".sass-cache"
+                , "style-guide"
+                , "jekyll-plugins"
+            ],
+            "file_exclude_patterns": [
+                "*_1.css"
+                , "*.json"
+                , "*.wpr", "*.project"
+                , "*.s(a|c)ssc", "*.cache", "*.jshintrc"
+                , "*.tga", "*.afm", "*.dds"
+                , "*.pdf", "*.swf", "*.jar", "*.zip", "*.gspl", "*.as"
+            ]
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"folders":
+	[
+		{
+			"folder_exclude_patterns":
+			[
+				"build",
+				"_temp-sass-source"
+			],
+			"follow_symlinks": true,
+			"name": "Sphinx Docs",
+			"path": "bigsky/z_bigsky/docs"
+		},
+		{
+			"folder_exclude_patterns":
+			[
+				"style-guide",
+				"jekyll-plugins"
+			],
+			"follow_symlinks": true,
+			"name": "Web Skin",
+			"path": "bigsky/z_bigsky/externals/web-skin"
+		}
+	]
+}

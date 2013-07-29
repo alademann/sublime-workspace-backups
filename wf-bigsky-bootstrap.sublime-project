@@ -1,0 +1,32 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				".scssc",
+				".css",
+				".cache",
+				".jshintrc",
+				"Makefile",
+				"package.json"
+			],
+			"folder_exclude_patterns":
+			[
+				".sass-cache",
+				"less",
+				"docs/templates",
+				"js/tests"
+			],
+			"name": "web/bootstrap",
+			"path": "bigsky/z_bigsky/web/bootstrap"
+		},
+		{
+			"name": "books/scss",
+			"path": "bigsky/z_bigsky/books/scss"
+		},
+		{
+			"path": "/Users/aaronlademann/Dropbox/_git/_personal/_playground/bootstrap-sass-scss-compass"
+		}
+	]
+}
