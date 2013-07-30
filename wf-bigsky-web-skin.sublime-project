@@ -5,19 +5,32 @@
 			"follow_symlinks": true,
             "name": "Web Skin",
 			"path": "bigsky/z_bigsky/externals/web-skin",
+            "file_exclude_patterns": [
+            ],
             "folder_exclude_patterns": [
                   ".sass-cache"
                 , "style-guide"
                 , "jekyll-plugins"
-            ],
-            "file_exclude_patterns": [
-                "*_1.css"
-                , "*.json"
-                , "*.wpr", "*.project"
-                , "*.s(a|c)ssc", "*.cache", "*.jshintrc"
-                , "*.tga", "*.afm", "*.dds"
-                , "*.pdf", "*.swf", "*.jar", "*.zip", "*.gspl", "*.as"
             ]
-		}
+		},
+        {
+            "follow_symlinks": true,
+            "name": "Sphinx Docs",
+            "path": "bigsky/z_bigsky/docs",
+            "folder_exclude_patterns":
+            [
+                "build",
+                "_temp-sass-source"
+            ]
+        },
+        {
+            "follow_symlinks": true,
+            "name": "twbs",
+            "path": "~/Dropbox/_git/_personal/_playground/bootstrap-sass-scss-compass",
+            "folder_exclude_patterns":
+            [
+                "_gh_pages"
+            ]
+        }
 	]
 }
