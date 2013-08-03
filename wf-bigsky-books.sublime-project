@@ -120,7 +120,6 @@
             ],
             "file_exclude_patterns": [
                 "*_1.css"
-                , "*.json"
                 , "*.wpr", "*.project"
                 , "*.s(a|c)ssc", "*.cache", "*.jshintrc"
                 , "*.tga", "*.afm", "*.dds"
