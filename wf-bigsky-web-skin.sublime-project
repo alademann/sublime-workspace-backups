@@ -26,7 +26,7 @@
         {
             "follow_symlinks": true,
             "name": "twbs",
-            "path": "~/Dropbox/_git/_personal/_playground/bootstrap-sass-scss-compass",
+            "path": "~/Dropbox/_git/_personal/bootstrap",
             "folder_exclude_patterns":
             [
                 "_gh_pages"
